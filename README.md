@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+🔭 I'm currently working on<br><br>I'm currently working on full-stack web applications using React.js, JavaScript, HTML, and CSS. Recently, I developed ExamShield, a secure online examination platform focused on improving the integrity and user experience of online assessments. Alongside web development, I am actively solving Data Structures and Algorithms problems to strengthen my problem-solving and coding skills.<br><br>👯 I'm looking to collaborate on<br><br>I'm looking to collaborate on innovative web development, AI-powered applications, open-source projects, and hackathon teams. I'm particularly interested in projects involving React, Node.js, Agentic AI systems, and educational technology solutions where I can contribute both frontend development and problem-solving skills.<br><br>🤝 I'm looking for help with<br><br>I'm looking for guidance and mentorship in Agentic AI, LLM-powered applications, system design, backend scalability, and industry-level software engineering practices. I am also interested in learning how to integrate AI agents into real-world products and deploy production-ready applications.<br><br>🌱 I'm currently learning<br><br>I'm currently learning Agentic AI, advanced React development, Node.js, and backend technologies. Alongside this, I continue improving my Data Structures and Algorithms skills through regular LeetCode and Codeforces practice while exploring how AI agents can be integrated into modern web applications.<br><br>💬 Ask me about<br><br>Ask me about React.js, JavaScript, HTML, CSS, frontend development, DSA problem-solving, LeetCode, Codeforces, GitHub projects, web application development, and my experience building projects like ExamShield.<br><br>⚡ Fun fact<br><br>I enjoy turning ideas into fully functional web applications and balancing development with competitive programming. I love learning new technologies, and I'm currently combining my web development background with AI to build smarter and more impactful applications.
 
-<!--
-**siddhivarshney44-dev/siddhivarshney44-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siddhivarshney44@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=siddhivarshney44-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=siddhivarshney44-dev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=siddhivarshney44-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=siddhivarshney44-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
